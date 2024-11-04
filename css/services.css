@@ -1,0 +1,56 @@
+#headingone{
+    text-align: center;
+
+}
+.paragraph{
+    font-family: "Arial Rounded MT Bold";
+    font-size: 18px;
+}
+
+#mydivison{
+    background-color:lightblue ;
+    margin: 40px;
+    padding: 30px;
+    color: white;
+}
+
+#test{
+    background-color: lightgray;
+    margin: 40px;
+    padding: 40px;
+    display: flex;
+    color: white;
+
+}
+#test img{
+    margin-right: 40px;
+    border-radius: 200px;
+    width: 400px;
+
+}
+#main{
+    display: flex;
+
+}
+
+#advertisement{
+    background-color: red;
+    box-shadow: 10px 8px 8px 4px gray;
+    margin-right: 20px;
+    padding: 30px;
+}
+#payment{
+    background-color: lightblue;
+    box-shadow: 10px 8px 8px 4px gray;
+    margin-right: 20px;
+    padding: 30px;
+}
+#accounting{
+    background-color: yellow;
+    box-shadow: 10px 8px 8px 4px gray;
+    margin-right: 20px;
+    padding: 30px;
+}
+#advertisement:hover,#accounting:hover,#payment:hover{
+    background-color: gray;
+}

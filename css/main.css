@@ -1,0 +1,31 @@
+h1{
+    color: white; text-align: center; font-size: 80px; background: black; line-height: 100px;
+    text-shadow: 12px 4px 12px yellow;
+}
+h1:hover{
+    background-color: lightblue;
+}
+table, th, td{
+    border: 1px solid; color: black;
+    border-collapse: collapse ;
+    text-align: center;
+
+}
+table{
+    width: 600px ;
+    align-content: center;
+}
+th, td{
+    padding: 10px
+}
+th{
+    background-color: lightblue;
+}
+img{
+    width: 400px;
+}
+td {
+    .one{
+        background-color: yellow;
+    }
+}
